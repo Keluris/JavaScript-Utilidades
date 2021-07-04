@@ -1,5 +1,5 @@
 /*
-Lucas Lourenco tem 18 anos, pesa 87 kg
+Lucas Lourenco tem 18 anos, pesa 85 kg
 tem 1.87 de altura e seu IMC é de Nvalor
 Lucas Lourenco nasceu em 2002
 */
@@ -7,7 +7,7 @@ const nome = 'Lucas';
 const sobrenome = 'Lourenco';
 const idade = 18;
 const peso = 87;
-const alturaEmM = 1.87; // Corrigido para metros (ao invés de cm)
+const alturaEmM = 1.87; 
 let indiceMassaCorporal; // peso / (altura * altura)
 let anoNascimento;
  
