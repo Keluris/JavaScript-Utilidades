@@ -1,3 +1,7 @@
+//Objetivo: fazer varA receber valor de varB, varB receber valor de VarC e varC receber Valor de varA
+
+//Resultado final esperado: console log tem que exibir o resultado "b c a"
+
 let varA = 'a'; //b
 let varB = 'b'; //c
 let varC = 'c'; //a
